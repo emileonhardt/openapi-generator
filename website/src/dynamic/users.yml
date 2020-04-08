@@ -124,6 +124,11 @@
   infoLink: "https://www.elementai.com/"
   pinned: false
 -
+  caption: "emineo"
+  image: "https://www.emineo.ch/wp-content/uploads/2019/09/logo.png"
+  infoLink: "https://emineo.ch/"
+  pinned: false
+-
   caption: "freee"
   image: "img/companies/freee.png"
   infoLink: "https://corp.freee.co.jp/en/"
